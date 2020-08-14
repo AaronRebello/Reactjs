@@ -1,21 +1,3 @@
-
-.cla1{color:whitesmoke;
-text-align: center;
-background-color: black;
-height: 100px; 
-}
-
-.cla2{text-align: center;
-color:beige;
-background-color:black;
-}
-
-.cla3{text-align: center;
-color:wheat;
-background-color: black}
-
-/* ****************************** */
-
 .App {
   text-align: center;
 }
@@ -24,7 +6,6 @@ background-color: black}
   height: 40vmin;
   pointer-events: none;
 }
-
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
